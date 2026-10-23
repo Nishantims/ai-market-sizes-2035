@@ -4,6 +4,11 @@ Global market size estimates and 10-year forecasts for **903 AI-related markets*
 
 Published by **[Market-Reports.com](https://www.market-reports.com)** - market size, forecasts and analysis for 4,600+ markets across 19 industries.
 
+## Also available on
+
+- Kaggle: https://www.kaggle.com/datasets/marketreportscom/ai-market-sizes-2025-2035
+- Hugging Face: https://huggingface.co/datasets/nishantims/ai-market-sizes-2035
+
 ## The data
 
 `data/ai_market_sizes_2025_2035.csv` - one row per market:
