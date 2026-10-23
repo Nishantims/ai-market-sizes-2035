@@ -1,5 +1,7 @@
 # AI Market Sizes 2025-2035
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23600896.svg)](https://doi.org/10.5281/zenodo.23600896)
+
 Global market size estimates and 10-year forecasts for **903 AI-related markets** - from AI chips, memory and data-center infrastructure to AI agents, governance tools and AI in healthcare, energy, manufacturing and defense.
 
 Published by **[Market-Reports.com](https://www.market-reports.com)** - market size, forecasts and analysis for 4,600+ markets across 19 industries.
@@ -8,6 +10,7 @@ Published by **[Market-Reports.com](https://www.market-reports.com)** - market s
 
 - Kaggle: https://www.kaggle.com/datasets/marketreportscom/ai-market-sizes-2025-2035
 - Hugging Face: https://huggingface.co/datasets/nishantims/ai-market-sizes-2035
+- Zenodo (archived, citable): https://doi.org/10.5281/zenodo.23600896
 
 ## The data
 
@@ -64,6 +67,6 @@ Figures are Market-Reports.com estimates of global market revenue in US dollars,
 
 Free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit and link:
 
-> Source: Market-Reports.com, AI Market Sizes 2025-2035 - https://www.market-reports.com
+> Source: Market-Reports.com, AI Market Sizes 2025-2035 - https://www.market-reports.com (DOI: 10.5281/zenodo.23600896)
 
 Need a figure for another market, a country or a segment? Email contact@market-reports.com.
